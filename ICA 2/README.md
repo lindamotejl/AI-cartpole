@@ -17,4 +17,6 @@ A introduction to reinforcement learning is included, a presentation of the Cart
 This prototype was made on Jupyter notebook , and it is recommended to run the files on a Jupyter notebook.
 Instructions on how to run a Jupyter Notebook can be found on https://www.codecademy.com/article/how-to-use-jupyter-notebooks
  
+# Github Repository
 
+The Github Repository can be found at https://github.com/lindamotejl/AI-cartpole
